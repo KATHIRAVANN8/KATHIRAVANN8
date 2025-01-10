@@ -34,8 +34,6 @@ Aspiring **Full Stack Developer** with a strong focus on **frontend technologies
 ### **Tools:**  
 <p align="left">
   <a href="https://www.postman.com/"><img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" alt="postman"/> </a>
-  <a href="https://git-scm.com/"><img width="48" height="48" src="https://img.icons8.com/color/50/git.png" alt="git"/> </a>
-  <a href="https://github.com/"><img width="48" height="48" src="https://img.icons8.com/arcade/64/github.png" alt="github"/> </a>
   <a href="https://code.visualstudio.com/"><img width="48" height="48" src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png" alt="vscode"/> </a>
   <a href="https://www.netlify.com/"><img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-shadow-tal-revivo.png" alt="netlify"/> </a>
 </p>  
