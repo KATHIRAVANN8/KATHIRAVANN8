@@ -1,7 +1,7 @@
 # Hi, I'm Kathiravan! 👋  
 Aspiring **Full Stack Developer** with a strong focus on **frontend technologies**
 
-- 🌱 I’m currently learning **[React Native](https://reactnative.dev/)**.
+- 🌱 I’m currently learning **[Next.js](https://nextjs.org/docs)**.
 - 👯 I’m looking to collaborate on **open-source projects**.
 - 💻 I love **React** for its power to build seamless, interactive UIs quickly and efficiently!
 - 💬 Ask me about **React**, **Web technologies**, **Redux**.
@@ -16,7 +16,7 @@ Aspiring **Full Stack Developer** with a strong focus on **frontend technologies
   <a href="https://www.w3.org/Style/CSS/"><img width="48" height="48" src="https://img.icons8.com/fluency/48/css3.png" alt="css"/> </a>
   <a href="https://www.javascript.com/"><img width="48" height="48" src="https://img.icons8.com/fluency/48/javascript.png" alt="javascript"/> </a>
   <a href="https://reactjs.org/"><img width="48" height="48" src="https://img.icons8.com/plasticine/100/react.png" alt="react" style="vertical-align:middle;"/> </a>
-  <a href="https://reactnative.dev/"><img width="48" height="48" src="https://img.icons8.com/nolan/50/react-native.png" alt="react-native" style="vertical-align:middle;"/> </a>
+  </a>
   <a href="https://getbootstrap.com/"><img width="48" height="48" src="https://img.icons8.com/fluency/48/bootstrap.png" alt="bootstrap"/> </a>
   <a href="https://tailwindcss.com/"><img width="48" height="48" src="https://img.icons8.com/color/50/tailwindcss.png" alt="tailwindcss"/> </a>
   <a href="https://redux.js.org/"><img width="48" height="48" src="https://img.icons8.com/color/50/redux.png" alt="redux"/> </a>
