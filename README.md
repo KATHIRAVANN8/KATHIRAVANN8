@@ -1,5 +1,8 @@
+
 # Hi, I'm Kathiravan! 👋  
 Aspiring **Full Stack Developer** with a strong focus on **frontend technologies**
+
+![Profile Views](https://komarev.com/ghpvc/?username=KATHIRAVANN8&color=green)
 
 - 🌱 I’m currently learning **[Next.js](https://nextjs.org/docs)**.
 - 👯 I’m looking to collaborate on **open-source projects**.
