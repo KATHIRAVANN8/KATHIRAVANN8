@@ -7,8 +7,8 @@ Aspiring **Java FullStack Developer**
 ## 👨‍💻 About Me
 
 - 🌱 Exploring `Spring Security` for secure API development.  
-- 🔧 Love solving `Backend Challenges` and writing clean logic.  
-- 🎨 Passionate `Frontend Developer` with a flair for sleek interfaces.  
+- 🔧 Strongly focused on `Java Backend Development` — Spring Boot & MySQL. 
+- 🎨 Love building sleek UIs using `React + Tailwind CSS`.  
 - 🤝 Open-source contributor & tech enthusiast.  
 - 🧩 Fun fact: I treat every bug like a puzzle — *fix, learn, grow*.
 
@@ -111,5 +111,8 @@ Aspiring **Java FullStack Developer**
   />
 </picture>
 
+
+### 🎯 Developer Mindset
+> **“Consistency is more important than perfection. Just keep building.”** 🚀
 
 
