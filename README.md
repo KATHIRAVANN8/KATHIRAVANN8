@@ -14,32 +14,48 @@ Aspiring **Full Stack Developer** with a strong focus on **frontend technologies
 ## 🚀 Technologies & Tools  
 
 ### **Frontend:**  
+**HTML5**, **CSS3**, **JavaScript**, **TypeScript**, **React**, **Redux**, **Tailwind CSS**, **Bootstrap**, **SASS**, **GSAP**, **Vite**
 <p align="left">
-  <a href="https://html.spec.whatwg.org/"><img width="48" height="48" src="https://img.icons8.com/fluency/48/html-5.png" alt="html"/> </a>
-  <a href="https://www.w3.org/Style/CSS/"><img width="48" height="48" src="https://img.icons8.com/fluency/48/css3.png" alt="css"/> </a>
-  <a href="https://www.javascript.com/"><img width="48" height="48" src="https://img.icons8.com/fluency/48/javascript.png" alt="javascript"/> </a>
-  <a href="https://reactjs.org/"><img width="48" height="48" src="https://img.icons8.com/plasticine/100/react.png" alt="react" style="vertical-align:middle;"/> </a>
-  </a>
-  <a href="https://getbootstrap.com/"><img width="48" height="48" src="https://img.icons8.com/fluency/48/bootstrap.png" alt="bootstrap"/> </a>
-  <a href="https://tailwindcss.com/"><img width="48" height="48" src="https://img.icons8.com/color/50/tailwindcss.png" alt="tailwindcss"/> </a>
-  <a href="https://redux.js.org/"><img width="48" height="48" src="https://img.icons8.com/color/50/redux.png" alt="redux"/> </a>
-  <a href="https://sass-lang.com/"><img width="48" height="48" src="https://img.icons8.com/color/50/sass.png" alt="sass"/> </a>
-  <a href="https://vitejs.dev/"><img width="48" height="48" src="https://img.icons8.com/fluency/48/vite.png" alt="vite"/> </a>
-</p>  
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://icon.icepanel.io/Technology/svg/HTML5.svg" width="48" alt="HTML5" style="margin: 4px;" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://icon.icepanel.io/Technology/svg/CSS3.svg" width="48" alt="CSS3" style="margin: 4px;" /></a>
+  <a href="https://www.javascript.com/"><img src="https://icon.icepanel.io/Technology/svg/JavaScript.svg" width="48" alt="JavaScript" style="margin: 4px;" /></a>
+  <a href="https://www.typescriptlang.org/"><img src="https://icon.icepanel.io/Technology/svg/TypeScript.svg" width="48" alt="TypeScript" style="margin: 4px;" /></a>
+  <a href="https://reactjs.org/"><img src="https://icon.icepanel.io/Technology/svg/React.svg" width="48" alt="React.js" style="margin: 4px;" /></a>
+  <a href="https://redux.js.org/"><img src="https://icon.icepanel.io/Technology/svg/Redux.svg" width="48" alt="Redux" style="margin: 4px;" /></a>
+  <a href="https://tailwindcss.com/"><img src="https://icon.icepanel.io/Technology/svg/Tailwind-CSS.svg" width="48" alt="Tailwind CSS" style="margin: 4px;" /></a>
+  <a href="https://getbootstrap.com/"><img src="https://icon.icepanel.io/Technology/svg/Bootstrap.svg" width="48" alt="Bootstrap" style="margin: 4px;" /></a>
+  <a href="https://sass-lang.com/"><img src="https://icon.icepanel.io/Technology/svg/Sass.svg" width="48" alt="SASS" style="margin: 4px;" /></a>
+  <a href="https://gsap.com/"><img src="https://svgstack.com/media/img/gsap-logo-dNe6788698.webp" width="48" alt="GSAP" style="margin: 4px;" /></a>
+  <a href="https://vitejs.dev/"><img src="https://icon.icepanel.io/Technology/svg/Vite.js.svg" width="48" alt="Vite.js" style="margin: 4px;" /></a>
+</p>
+
 
 ### **Backend:**  
+**Java**, **Spring Boot**, **Hibernate**, **RESTful API**, **MySQL**, **Firebase**
 <p align="left">
-  <a href="https://www.mysql.com/"><img width="48" height="48" src="https://img.icons8.com/fluency/48/mysql-logo.png" alt="mysql"/> </a>
-  <a href="https://firebase.google.com/"><img width="48" height="48" src="https://img.icons8.com/color/50/firebase.png" alt="firebase"/> </a>
-  <a href="https://www.java.com/"><img width="48" height="48" src="https://img.icons8.com/color/50/java-coffee-cup-logo--v1.png" alt="java"/> </a>
-</p>  
+  <a href="https://www.java.com/"><img src="https://icon.icepanel.io/Technology/svg/Java.svg" width="48" alt="Java" style="margin: 4px;" /></a>
+  <a href="https://spring.io/"><img src="https://icon.icepanel.io/Technology/svg/Spring.svg" width="48" alt="Spring Boot" style="margin: 4px;" /></a>
+  <a href="https://hibernate.org/"><img src="https://icon-library.com/images/hibernate-icon/hibernate-icon-20.jpg" width="48" alt="Hibernate" style="margin: 4px;" /></a>
+  <a href="https://restfulapi.net/"><img src="https://img.icons8.com/nolan/50/api-settings.png" width="48" alt="REST API" style="margin: 4px;" /></a>
+  <a href="https://www.mysql.com/"><img src="https://icon.icepanel.io/Technology/svg/MySQL.svg" width="48" alt="MySQL" style="margin: 4px;" /></a>
+  <a href="https://firebase.google.com/"><img src="https://icon.icepanel.io/Technology/svg/Firebase.svg" width="48" alt="Firebase" style="margin: 4px;" /></a>
+</p>
+  
 
 ### **Tools:**  
+**Webpack**, **Babel**, **Postman**, **Jira**, **Jenkins**, **Docker**, **Swagger**, **Netlify**, **VS Code**
 <p align="left">
-  <a href="https://www.postman.com/"><img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" alt="postman"/> </a>
-  <a href="https://code.visualstudio.com/"><img width="48" height="48" src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png" alt="vscode"/> </a>
-  <a href="https://www.netlify.com/"><img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-shadow-tal-revivo.png" alt="netlify"/> </a>
-</p>  
+  <a href="https://webpack.js.org/"><img src="https://img.icons8.com/color/48/webpack.png" width="48" alt="Webpack" style="margin: 4px;" /></a>
+  <a href="https://babeljs.io/"><img src="https://icon.icepanel.io/Technology/svg/Babel.svg" width="48" alt="Babel" style="margin: 4px;" /></a>
+  <a href="https://www.postman.com/"><img src="https://icon.icepanel.io/Technology/svg/Postman.svg" width="48" alt="Postman" style="margin: 4px;" /></a>
+  <a href="https://www.atlassian.com/software/jira"><img src="https://icon.icepanel.io/Technology/svg/Jira.svg" width="48" alt="Jira" style="margin: 4px;" /></a>
+  <a href="https://www.jenkins.io/"><img src="https://icon.icepanel.io/Technology/svg/Jenkins.svg" width="48" alt="Jenkins" style="margin: 4px;" /></a>
+  <a href="https://www.docker.com/"><img src="https://icon.icepanel.io/Technology/svg/Docker.svg" width="48" alt="Docker" style="margin: 4px;" /></a>
+  <a href="https://swagger.io/"><img src="https://icon.icepanel.io/Technology/svg/Swagger.svg" width="48" alt="Swagger" style="margin: 4px;" /></a>
+  <a href="https://www.netlify.com/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-shadow-tal-revivo.png" width="48" alt="Netlify" style="margin: 4px;" /></a>
+  <a href="https://code.visualstudio.com/"><img src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png" width="48" alt="VS Code" style="margin: 4px;" /></a>
+</p>
+  
 
 ## 📚 Featured Projects:  
 - [E-Commerce Website](https://github.com/KATHIRAVANN8/e-commerce): A responsive e-commerce platform offering a seamless shopping experience.
