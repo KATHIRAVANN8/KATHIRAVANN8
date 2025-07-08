@@ -61,15 +61,58 @@ Aspiring **Full Stack Developer**
 </p>
   
 
-## 📚 Featured Projects:  
-- [E-Commerce Website](https://github.com/KATHIRAVANN8/e-commerce): A responsive e-commerce platform offering a seamless shopping experience.
-- [SmartE Book](https://github.com/KATHIRAVANN8/SmartE-book): A robust e-book application with advanced backend features, offering seamless data management and user authentication for an optimized user experience.
+## 💻✨ GitHub Stats & Activity
 
-## 💻 GitHub Stats  
-![Kathiravan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KATHIRAVANN8&show_icons=true&hide_title=true&hide=prs)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=KATHIRAVANN8&show_icons=true&theme=radical&border_radius=12&rank_icon=github&include_all_commits=true" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com/?user=KATHIRAVANN8&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" />
+    </td>
+  </tr>
+</table>
 
-## 📊 GitHub language used  
-![Kathiravan's GitHub Contributions](https://github-readme-stats.vercel.app/api/top-langs/?username=KATHIRAVANN8&langs_count=10&layout=compact&hide=html&theme=radical)
+---
 
-## 📊 GitHub Contributions  
-![Kathiravan's GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=KATHIRAVANN8&bg_color=000000&color=00FF00&line=00FF00&point=00FF00&area=true&area_color=00FF00&hide_title=true&custom_title=Kathiravan%20GitHub%20Contributions%202024%20and%202025)
+### 📊 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KATHIRAVANN8&layout=compact&langs_count=8&theme=tokyonight&hide=html)
+
+---
+
+### 🔥 Contribution Graph
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=KATHIRAVANN8&bg_color=0d1117&color=00e5ff&line=00e5ff&point=ffffff&area=true&area_color=00e5ff&hide_title=true)
+
+---
+
+### 🏆 GitHub Achievements
+
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=KATHIRAVANN8&theme=matrix&margin-w=10&margin-h=15&no-bg=true&no-frame=true" alt="Trophies" />
+</p>
+
+---
+
+### 🐍 GitHub Contribution Snake Animation
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+    style="max-width: 100%;"
+  />
+</picture>
+
+
+
