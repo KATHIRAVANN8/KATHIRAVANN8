@@ -1,15 +1,19 @@
 
 # Hi, I'm Kathiravan! 👋  
-Aspiring **Full Stack Developer** with a strong focus on **frontend technologies**
+Aspiring **Full Stack Developer** 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=KATHIRAVANN8&color=green)
 
-- 🌱 I’m currently learning **[Next.js](https://nextjs.org/docs)**.
-- 👯 I’m looking to collaborate on **open-source projects**.
-- 💻 I love **React** for its power to build seamless, interactive UIs quickly and efficiently!
-- 💬 Ask me about **React**, **Web technologies**, **Redux**.
-- 📫 How to reach me: [kathiravan62003@gmail.com](mailto:kathiravan62003@gmail.com)
-- ⚡ Coding feels like an adventure where every bug is a new mystery to solve
+## 👨‍💻 About Me
+
+- 🌱 Exploring `Spring Security` for secure API development.  
+- 🔧 Love solving `Backend Challenges` and writing clean logic.  
+- 🎨 Passionate `Frontend Developer` with a flair for sleek interfaces.  
+- 🤝 Open-source contributor & tech enthusiast.  
+- 📫 Reach me at: [kathiravan62003@gmail.com](mailto:kathiravan62003@gmail.com)  
+- 🧩 Fun fact: I treat every bug like a puzzle — *fix, learn, grow*.
+
+
 
 ## 🚀 Technologies & Tools  
 
