@@ -11,16 +11,11 @@ Aspiring **Java FullStack Developer**
 - 🎨 Passionate `Frontend Developer` with a flair for sleek interfaces.  
 - 🤝 Open-source contributor & tech enthusiast.  
 - 🧩 Fun fact: I treat every bug like a puzzle — *fix, learn, grow*.
-### 📫 Reach Me At
-### 📫 Reach Me At
 
-[![Email](https://img.icons8.com/fluency/48/gmail.png)](mailto:kathiravan62003@gmail.com)
+### 📫 Reach Me At
+[![Email](https://img.icons8.com/fluency/48/gmail.png)](https://mail.google.com/mail/?view=cm&to=kathiravan62003@gmail.com)
 [![LinkedIn](https://img.icons8.com/fluency/48/linkedin.png)](https://www.linkedin.com/in/kathiravann1682)
 [![Portfolio](https://img.icons8.com/fluency/48/domain.png)](https://kathiravan-devfolio.netlify.app/)
-
-
-
-
 
 
 ## 🚀 Technologies & Tools  
