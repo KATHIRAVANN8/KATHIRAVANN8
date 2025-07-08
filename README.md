@@ -12,7 +12,9 @@ Aspiring **Java FullStack Developer**
 - 🤝 Open-source contributor & tech enthusiast.  
 - 🧩 Fun fact: I treat every bug like a puzzle — *fix, learn, grow*.
 ### 📫 Reach Me At
-[![Email](https://img.icons8.com/fluency/48/gmail.png)](mailto:kathiravan62003@gmail.com)
+<a href="mailto:kathiravan62003@gmail.com" target="_blank">
+  <img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Gmail" />
+</a>
 [![LinkedIn](https://img.icons8.com/fluency/48/linkedin.png)](https://www.linkedin.com/in/kathiravann1682)
 [![Portfolio](https://img.icons8.com/fluency/48/domain.png)](https://kathiravan-devfolio.netlify.app/)
 
