@@ -1,6 +1,6 @@
+# ![Profile Banner](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&size=24&weight=700&width=500&lines=Hi%2C+I'm+Kathiravan!👋 )
 
-# Hi, I'm Kathiravan! 👋  
-Aspiring **Full Stack Developer** 
+Aspiring **Java FullStack Developer** 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=KATHIRAVANN8&color=green)
 
