@@ -82,12 +82,6 @@ Aspiring **Full Stack Developer**
 
 ---
 
-### 🔥 Contribution Graph
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=KATHIRAVANN8&bg_color=0d1117&color=00e5ff&line=00e5ff&point=ffffff&area=true&area_color=00e5ff&hide_title=true)
-
----
-
 ### 🏆 GitHub Achievements
 
 <p align="left">
